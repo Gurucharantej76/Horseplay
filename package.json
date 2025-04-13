@@ -1,0 +1,16 @@
+{
+  "name": "horseplay",
+  "version": "1.0.0",
+  "description": "A 3D horse racing game",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+} 
